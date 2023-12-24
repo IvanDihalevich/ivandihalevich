@@ -1,16 +1,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+i`m+Ivan+Dihalevych)](https://git.io/typing-svg)
-<!--
-**IvanDihalevich/ivandihalevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+Hello, I'm Ivan Dihalevych, and this is my GitHub profile. Here you'll find various projects, learning materials, and experiments. I'm interested in **employment**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools
+
+Here are a few languages and tools I use in my projects:
+
+- 💻 **Programming Languages**: C#, JavaScript
+- **At a low level**: C++, Python
+- 🛠️ **Tools**: VS Code, VS, WebStorm, MySQL, PyCharm, Node.js, Postman
+
+
+## Connect with Me
+
+I always welcome new connections and community. Reach out to me via:
+
+- 📧 **Email**: ivandihalevih.com@gmail.com
+- 💬 **Telegram**: [@okk_ivan](https://t.me/okk_ivan)
+- 📸 **Instagram**: [@ivandigalevich](https://www.instagram.com/ivandigalevich/)
+
+
